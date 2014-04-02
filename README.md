@@ -3,5 +3,5 @@ Test
 Hello World!
 
 my feature: no feature
-another feature: not yet decided
+another feature: no feature
 Github test
